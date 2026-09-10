@@ -37,7 +37,7 @@ The database is designed for a **single-user application** and should remain sim
              │                       │                        │
              ▼                       ▼                        ▼
       ┌─────────────┐       ┌──────────────┐        ┌────────────────┐
-      │ game_genres │       │game_platforms│        │game_companies  │
+      │ game_genres │       │game_platforms│        │ game_companies │
       └──────┬──────┘       └──────┬───────┘        └───────┬────────┘
              │                     │                        │
              ▼                     ▼                        ▼
